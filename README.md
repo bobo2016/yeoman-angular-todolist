@@ -5,7 +5,7 @@ version 0.11.1.
 ## Functions
 1. Add todo to the todo list 
 2. Remove todo from the todo list
-3. store todo in the local storage module
+3. Store todo in the local storage module
 
 ## Build & development
 
